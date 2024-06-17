@@ -13,7 +13,28 @@ namespace compitoS1L1BE
         string colore;
         string anno;
 
+        public string Velocita
+        {
+            get
+            {
+                return velocita;
+            }
+            set
+            {
+                velocita = value;
+            }
+        }
+        public string Colore
+        {
+            get
+            {
+                return colore;
+            }
+            set
+            {
+                colore = value;
+            }
 
-
+        }
     }
 }

@@ -14,4 +14,28 @@ namespace compitoS1L1BE
         string cognome;
         string professione;
     }
+
+    public string Cognome
+    {
+        get
+        {
+            return cognome;
+        }
+        set
+        {
+            cognome = value;
+        }
+    }
+    public string Nome
+    {
+        get
+        {
+            return nome;
+        }
+        set
+        {
+            nome = value;
+        }
+
+    }
 }

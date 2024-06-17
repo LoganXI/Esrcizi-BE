@@ -12,5 +12,28 @@ namespace compitoS1L1BE
         string colore;
         Boolean domestico;
 
+        public string Specie
+        {
+            get
+            {
+                return specie;
+            }
+            set
+            {
+                specie = value;
+            }
+        }
+        public bool Domestico
+        {
+            get
+            {
+                return domestico;
+            }
+            set
+            {
+                domestico = value;
+            }
+
+        }
     }
 }

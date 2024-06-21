@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38242D01-25D7-4D12-95DE-309186F745BD}|CompitoS1L5BE\\CompitoS1L5BE.csproj|c:\\users\\morgan\\source\\repos\\loganxi\\esrcizi-be\\compitos1l1be\\compitos1l5be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38242D01-25D7-4D12-95DE-309186F745BD}|CompitoS1L5BE\\CompitoS1L5BE.csproj|solutionrelative:compitos1l5be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88DFF5D4-558A-42B1-A89E-28D68C4B5E8B}|ContestS1L5BE\\ContestS1L5BE.csproj|c:\\users\\morgan\\source\\repos\\loganxi\\esrcizi-be\\compitos1l1be\\contests1l5be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DFF5D4-558A-42B1-A89E-28D68C4B5E8B}|ContestS1L5BE\\ContestS1L5BE.csproj|solutionrelative:contests1l5be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38242D01-25D7-4D12-95DE-309186F745BD}|CompitoS1L5BE\\TestS1L5BE.csproj|c:\\users\\morgan\\source\\repos\\loganxi\\esrcizi-be\\compitos1l1be\\compitos1l5be\\contest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38242D01-25D7-4D12-95DE-309186F745BD}|CompitoS1L5BE\\TestS1L5BE.csproj|solutionrelative:compitos1l5be\\contest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\CompitoS1L5BE\\Program.cs",
-              "RelativeDocumentMoniker": "CompitoS1L5BE\\Program.cs",
-              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\CompitoS1L5BE\\Program.cs",
-              "RelativeToolTip": "CompitoS1L5BE\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAB0AAAA",
+              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\ContestS1L5BE\\Program.cs",
+              "RelativeDocumentMoniker": "ContestS1L5BE\\Program.cs",
+              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\ContestS1L5BE\\Program.cs",
+              "RelativeToolTip": "ContestS1L5BE\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAiwDUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T07:35:04.174Z",
+              "WhenOpened": "2024-06-21T09:22:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contest.cs",
+              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\CompitoS1L5BE\\Contest.cs",
+              "RelativeDocumentMoniker": "CompitoS1L5BE\\Contest.cs",
+              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\CompitoS1L5BE\\Contest.cs",
+              "RelativeToolTip": "CompitoS1L5BE\\Contest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAUwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:04:14.132Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,9 @@
-﻿public class Contribuente
+﻿// premetto che ho messo tutto in un solo foglio cs per praticita di lettura, naturalmente sarebbe piu corretto separare l'oggetto dal main 
+// ma essendo molto lineare e poco confuso ho preferito alla soluzione in singola pagina per facilitare la lettura. 
+
+
+
+public class Contribuente
 {
     public string Nome { get; set; }
     public string Cognome { get; set; }
@@ -71,7 +76,6 @@
         Console.WriteLine("");
     }
 }
-
 
 
 

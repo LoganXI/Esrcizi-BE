@@ -13,7 +13,7 @@ namespace compitoS1L1BE
         string colore;
         string anno;
 
-        public string Velocita
+        public int Velocita
         {
             get
             {

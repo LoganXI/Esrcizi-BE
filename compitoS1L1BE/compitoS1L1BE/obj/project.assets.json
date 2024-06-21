@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Morgan\\Desktop\\Git\\BE\\compitoS1L1BE\\compitoS1L1BE\\compitoS1L1BE.csproj",
+      "projectUniqueName": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\compitoS1L1BE.csproj",
       "projectName": "compitoS1L1BE",
-      "projectPath": "C:\\Users\\Morgan\\Desktop\\Git\\BE\\compitoS1L1BE\\compitoS1L1BE\\compitoS1L1BE.csproj",
+      "projectPath": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\compitoS1L1BE.csproj",
       "packagesPath": "C:\\Users\\Morgan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Morgan\\Desktop\\Git\\BE\\compitoS1L1BE\\compitoS1L1BE\\obj\\",
+      "outputPath": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Morgan\\AppData\\Roaming\\NuGet\\NuGet.Config",

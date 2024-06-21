@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("compitoS1L1BE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1821bc8a62f3a745a2126061e92d23c64eaf6ff4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcc50a17aaffe23179f328ac9b85b71aebcd256b")]
 [assembly: System.Reflection.AssemblyProductAttribute("compitoS1L1BE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("compitoS1L1BE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

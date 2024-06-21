@@ -18,8 +18,8 @@ internal class Program
             ragno.Domestico = false;
             ragno.Specie = "aracnide";
 
-            rai.nome = "stanco";
-            rai.cognome = "morto";
+            rai.Nome = "stanco";
+            rai.Cognome = "morto";
 
             nuoto.Sport = "nuoto";
             nuoto.Nome = "squalo";

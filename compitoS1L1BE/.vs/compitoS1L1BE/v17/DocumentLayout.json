@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Morgan\\Desktop\\Git\\BE\\compitoS1L1BE\\",
+  "WorkspaceRootPath": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCF38171-8F80-48EE-BEDE-4BD2D1899091}|compitoS1L1BE\\compitoS1L1BE.csproj|c:\\users\\morgan\\desktop\\git\\be\\compitos1l1be\\compitos1l1be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF38171-8F80-48EE-BEDE-4BD2D1899091}|compitoS1L1BE\\compitoS1L1BE.csproj|solutionrelative:compitos1l1be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38242D01-25D7-4D12-95DE-309186F745BD}|CompitoS1L5BE\\CompitoS1L5BE.csproj|c:\\users\\morgan\\source\\repos\\loganxi\\esrcizi-be\\compitos1l1be\\compitos1l5be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38242D01-25D7-4D12-95DE-309186F745BD}|CompitoS1L5BE\\CompitoS1L5BE.csproj|solutionrelative:compitos1l5be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Morgan\\Desktop\\Git\\BE\\compitoS1L1BE\\compitoS1L1BE\\Program.cs",
-              "RelativeDocumentMoniker": "compitoS1L1BE\\Program.cs",
-              "ToolTip": "C:\\Users\\Morgan\\Desktop\\Git\\BE\\compitoS1L1BE\\compitoS1L1BE\\Program.cs",
-              "RelativeToolTip": "compitoS1L1BE\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\CompitoS1L5BE\\Program.cs",
+              "RelativeDocumentMoniker": "CompitoS1L5BE\\Program.cs",
+              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\CompitoS1L5BE\\Program.cs",
+              "RelativeToolTip": "CompitoS1L5BE\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwEYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T12:10:29.5Z",
+              "WhenOpened": "2024-06-21T07:35:04.174Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "compitoS1L2BE", "compitoS1L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestS1L5BE", "CompitoS1L5BE\TestS1L5BE.csproj", "{38242D01-25D7-4D12-95DE-309186F745BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContestS1L5BE", "ContestS1L5BE\ContestS1L5BE.csproj", "{88DFF5D4-558A-42B1-A89E-28D68C4B5E8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContestS1L5BE", "ContestS1L5BE\ContestS1L5BE.csproj", "{88DFF5D4-558A-42B1-A89E-28D68C4B5E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compitoS2L1BE", "compitoS2L1BE\compitoS2L1BE.csproj", "{09364B78-AD2A-4ED2-811E-693E7BF2CBF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esercizioS2L1BEconsole", "esercizioS2L1BEconsole\esercizioS2L1BEconsole.csproj", "{5A56B8C6-CAA1-4C99-8A42-9321D3637B8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{88DFF5D4-558A-42B1-A89E-28D68C4B5E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88DFF5D4-558A-42B1-A89E-28D68C4B5E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88DFF5D4-558A-42B1-A89E-28D68C4B5E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09364B78-AD2A-4ED2-811E-693E7BF2CBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09364B78-AD2A-4ED2-811E-693E7BF2CBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09364B78-AD2A-4ED2-811E-693E7BF2CBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09364B78-AD2A-4ED2-811E-693E7BF2CBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A56B8C6-CAA1-4C99-8A42-9321D3637B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A56B8C6-CAA1-4C99-8A42-9321D3637B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A56B8C6-CAA1-4C99-8A42-9321D3637B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A56B8C6-CAA1-4C99-8A42-9321D3637B8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

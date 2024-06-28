@@ -26,7 +26,6 @@ namespace TestS2L5BEScarpeCo.Controllers
             return View(articolo);
         }
 
-        [HttpPost]
         public IActionResult Aggiungi(Articolo articolo)
         {
             if (ModelState.IsValid)

@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "compitoS2L1BE", "compitoS2L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "esercizioS2L1BEconsole", "esercizioS2L1BEconsole\esercizioS2L1BEconsole.csproj", "{5A56B8C6-CAA1-4C99-8A42-9321D3637B8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestS2L5BEScarpeCo", "TestS2L5BEScarpeCo\TestS2L5BEScarpeCo.csproj", "{9A60E56C-AEE7-4C47-AD59-E9D76C592085}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestS2L5BEScarpeCo", "TestS2L5BEScarpeCo\TestS2L5BEScarpeCo.csproj", "{9A60E56C-AEE7-4C47-AD59-E9D76C592085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W3.D4.ado", "W3.D4.ade\W3.D4.ado.csproj", "{BF83A5D7-8974-4F53-B861-5578C24969DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9A60E56C-AEE7-4C47-AD59-E9D76C592085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A60E56C-AEE7-4C47-AD59-E9D76C592085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A60E56C-AEE7-4C47-AD59-E9D76C592085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF83A5D7-8974-4F53-B861-5578C24969DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF83A5D7-8974-4F53-B861-5578C24969DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF83A5D7-8974-4F53-B861-5578C24969DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF83A5D7-8974-4F53-B861-5578C24969DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

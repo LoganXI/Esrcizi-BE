@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<TestS4L5BEAppPolizia.Models.TipoViolazione>
+
+<h2>Tipo Violazioni</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Descrizione</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.IdViolazione</td>
+                <td>@item.Descrizione</td>
+            </tr>
+        }
+    </tbody>
+</table>

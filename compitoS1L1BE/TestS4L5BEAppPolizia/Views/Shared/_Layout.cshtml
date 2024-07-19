@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - TestS4L5BEAppPolizia</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-light bg-light">
+            <a class="navbar-brand" href="/">TestS4L5BEAppPolizia</a>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Anagrafica/Index">Anagrafica</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/TipoViolazioni/Index">Tipo Violazioni</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Verbali/Compilazione">Compilazione Verbale</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Violazioni/ViolazioniConPiuDi10Punti">Violazioni con più di 10 punti</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Violazioni/ViolazioniConImportoMaggioreDi400">Violazioni con importo > 400 euro</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - TestS4L5BEAppPolizia - <a href="/Home/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

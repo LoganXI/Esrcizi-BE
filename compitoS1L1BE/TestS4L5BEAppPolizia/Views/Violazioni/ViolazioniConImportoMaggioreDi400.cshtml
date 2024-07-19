@@ -1,0 +1,26 @@
+﻿@model IEnumerable<TestS4L5BEAppPolizia.Models.Violazioni>
+
+<h2>Violazioni con importo maggiore di 400 euro</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cognome</th>
+            <th>Nome</th>
+            <th>Importo</th>
+            <th>Data Violazione</th>
+            <th>Punti Decurtati</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Cognome</td>
+                <td>@item.Nome</td>
+                <td>@item.Importo</td>
+                <td>@item.DataViolazione.ToShortDateString()</td>
+                <td>@item.DecurtamentoPunti</td>
+            </tr>
+        }
+    </tbody>
+</table>

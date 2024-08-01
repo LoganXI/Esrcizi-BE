@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:compitoS1L1BE\\compitoS1L1BE\\Dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:compitoS1L1BE\\compitoS1L1BE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:compitoS1L1BE\\compitoS1L1BE\\Animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:compitoS1L1BE\\compitoS1L1BE\\Veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:compitoS1L1BE\\compitoS1L1BE\\Atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,79 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Veicolo.cs",
-              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Veicolo.cs",
-              "RelativeDocumentMoniker": "compitoS1L1BE\\compitoS1L1BE\\Veicolo.cs",
-              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Veicolo.cs",
-              "RelativeToolTip": "compitoS1L1BE\\compitoS1L1BE\\Veicolo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:24:23.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dipendente.cs",
-              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Dipendente.cs",
-              "RelativeDocumentMoniker": "compitoS1L1BE\\compitoS1L1BE\\Dipendente.cs",
-              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Dipendente.cs",
-              "RelativeToolTip": "compitoS1L1BE\\compitoS1L1BE\\Dipendente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:24:19.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Atleta.cs",
-              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Atleta.cs",
-              "RelativeDocumentMoniker": "compitoS1L1BE\\compitoS1L1BE\\Atleta.cs",
-              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Atleta.cs",
-              "RelativeToolTip": "compitoS1L1BE\\compitoS1L1BE\\Atleta.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:24:18.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Animale.cs",
-              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Animale.cs",
-              "RelativeDocumentMoniker": "compitoS1L1BE\\compitoS1L1BE\\Animale.cs",
-              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Animale.cs",
-              "RelativeToolTip": "compitoS1L1BE\\compitoS1L1BE\\Animale.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:24:16.51Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Program.cs",
-              "RelativeDocumentMoniker": "compitoS1L1BE\\compitoS1L1BE\\Program.cs",
-              "ToolTip": "C:\\Users\\Morgan\\source\\repos\\LoganXI\\Esrcizi-BE\\compitoS1L1BE\\compitoS1L1BE\\Program.cs",
-              "RelativeToolTip": "compitoS1L1BE\\compitoS1L1BE\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAACUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:24:22.296Z",
-              "EditorCaption": ""
             }
           ]
         }

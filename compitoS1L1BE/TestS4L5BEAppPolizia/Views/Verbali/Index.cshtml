@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<TestS4L5BEAppPolizia.Models.Verbale>
+
+<h2>Verbali</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Aggiungi Verbale</a>
+</p>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Data Violazione</th>
+            <th>Indirizzo Violazione</th>
+            <th>Matricola Agente</th>
+            <th>Data Trascrizione</th>
+            <th>Importo</th>
+            <th>Decurtamento Punti</th>
+            <th>Id Anagrafica</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.IdVerbale</td>
+                <td>@item.DataViolazione</td>
+                <td>@item.IndirizzoViolazione</td>
+                <td>@item.Matricola_Agente</td>
+                <td>@item.DataTrascrizioneVerbale</td>
+                <td>@item.Importo</td>
+                <td>@item.DecurtamentoPunti</td>
+                <td>@item.IdAnagraficaFK</td>
+            </tr>
+        }
+    </tbody>
+</table>
